@@ -24,6 +24,7 @@ Supports:
 - [TokenPocket wallet](https://tokenpocket.pro)
 - [Blocto wallet](https://portto.com/download)
 - [Nightly Wallet](https://nightly.app/download)
+- [ONTO Wallet](https://onto.app)
 
 **Please refer to the readme within aptos-wallet-adapter pacakages**
 
